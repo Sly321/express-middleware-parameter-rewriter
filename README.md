@@ -1,5 +1,7 @@
 # express-parameter-rewriter
 
+[![Build Status](https://travis-ci.org/Sly321/express-parameter-rewriter.svg?branch=master)](https://travis-ci.org/Sly321/express-parameter-rewriter)
+
 Middleware that allows you to reconfigure the request parameter.
 
 ## Usage
