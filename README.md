@@ -1,6 +1,7 @@
 # express-parameter-rewriter
 
 [![Build Status](https://travis-ci.org/Sly321/express-parameter-rewriter.svg?branch=master)](https://travis-ci.org/Sly321/express-parameter-rewriter)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 Middleware that allows you to reconfigure the request parameter.
 
