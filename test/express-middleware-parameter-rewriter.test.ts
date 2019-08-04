@@ -21,8 +21,6 @@ describe('ParameterRewriter', () => {
         })
     }
 
-    beforeEach(() => {})
-
     it(`should call call next middleware`, async () => {
         app.use(ParameterRewriter({}))
 
