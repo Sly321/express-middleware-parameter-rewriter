@@ -3,6 +3,7 @@
 Middleware that allows you to reconfigure the request parameter.
 
 [![Build Status](https://travis-ci.org/Sly321/express-parameter-rewriter.svg?branch=master)](https://travis-ci.org/Sly321/express-parameter-rewriter)
+[![Coverage Status](https://coveralls.io/repos/github/Sly321/express-parameter-rewriter/badge.svg?branch=master)](https://coveralls.io/github/Sly321/express-parameter-rewriter?branch=master)
 [![Mutation testing badge](https://badge.stryker-mutator.io/github.com/Sly321/express-parameter-rewriter/master)](https://stryker-mutator.github.io)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
