@@ -13,7 +13,7 @@ function replaceUrlParameterName(url: string, oldName: string, newName: string):
     return url.replace('&' + oldName, '&' + newName)
 }
 
-export default function MiddlewareParameterRewriter(obj: ParameterRewriteObject): RequestHandler {
+export default function ParameterRewriter(obj: ParameterRewriteObject): RequestHandler {
     const keys = Object.keys(obj)
     return (req: Request, res: Response, next: NextFunction) => {
         keys.forEach(key => {

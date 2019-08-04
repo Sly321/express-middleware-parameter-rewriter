@@ -20,6 +20,7 @@ let ghToken = process.env.GH_TOKEN || 'Sly321'
 echo('Deploying docs!!!')
 cd('docs')
 cp('-R', '../reports/mutation/html', './stryker')
+cp('-R', '../coverage/lcov-report', './coverage')
 touch('.nojekyll')
 exec('git init')
 exec('git add .')
