@@ -1,4 +1,4 @@
-import ParameterRewriter from '../src/express-middleware-parameter-rewriter'
+import ParameterRewriter from '../src/express-parameter-rewriter'
 import * as express from 'express'
 import * as http from 'http'
 import fetch, { RequestInfo } from 'node-fetch'

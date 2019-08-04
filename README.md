@@ -1,6 +1,6 @@
 # express-parameter-rewriter
 
-An express middlware that allows you to reconfigure the request parameter.
+Middleware that allows you to reconfigure the request parameter.
 
 ## Usage
 
@@ -16,7 +16,7 @@ or npm:
 npm i express-parameter-rewriter --save
 ```
 
-Implementation:
+### Example
 
 ```typescript
 import * as express from 'express'

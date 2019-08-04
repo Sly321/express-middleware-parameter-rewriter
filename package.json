@@ -1,11 +1,11 @@
 {
-    "name": "express-middleware-parameter-rewriter",
+    "name": "express-parameter-rewriter",
     "version": "0.0.0",
     "description": "",
     "keywords": [],
-    "main": "dist/express-middleware-parameter-rewriter.umd.js",
-    "module": "dist/express-middleware-parameter-rewriter.es5.js",
-    "typings": "dist/types/express-middleware-parameter-rewriter.d.ts",
+    "main": "dist/express-parameter-rewriter.umd.js",
+    "module": "dist/express-parameter-rewriter.es5.js",
+    "typings": "dist/types/express-parameter-rewriter.d.ts",
     "files": [
         "dist"
     ],

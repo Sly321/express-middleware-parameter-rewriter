@@ -7,7 +7,7 @@ import json from 'rollup-plugin-json'
 
 const pkg = require('./package.json')
 
-const libraryName = 'express-middleware-parameter-rewriter'
+const libraryName = 'express-parameter-rewriter'
 
 export default {
     input: `src/${libraryName}.ts`,
