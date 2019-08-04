@@ -12,7 +12,7 @@
     "author": "Sven Liebig <liebigsv@gmail.com>",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/Sly321/express-parameter-rewriter"
     },
     "license": "MIT",
     "engines": {
